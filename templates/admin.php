@@ -1,0 +1,1 @@
+<h1>'Manage Mi plugin'</h1>
