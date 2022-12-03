@@ -1,15 +1,11 @@
 # My Plugin
-
- A README file typically encompasses:
-
-* Configuration instructions
-* Installation instructions
-* Operating instructions
-* A file manifest (a list of files in the directory or archive)
-* Copyright and licensing information
-* Contact information for the distributor or author
-* A list of known bugs[3]
-* Troubleshooting instructions[3]
-* Credits and acknowledgments
-* A changelog (usually aimed at fellow programmers)
-* A news section (usually aimed at end users)
+* Modular Administration Area
+* CPT Manager
+* Custom Taxonomy Manager
+* Widget to Upload and Display media in sidebars
+* Post and Pages Gallery integration
+* Testimonial section: Comment in the front-end, Admins can approve comments, select which comments to display
+* Custom template section
+* Ajax based Login/Register system
+* Membership protected area
+* Chat system

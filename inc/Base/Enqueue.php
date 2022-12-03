@@ -16,7 +16,7 @@ class  Enqueue
 
     function enqueue()
     {
-        wp_enqueue_style('my-plugin-style', MP_PLUGIN_URL . '/assets/my-style.css');
-        wp_enqueue_script('my-plugin-script', MP_PLUGIN_URL .'/assets/my-script.js');
+        wp_enqueue_style('my-style', MP_PLUGIN_URL . '/assets/my-style.css');
+        wp_enqueue_script('my-script', MP_PLUGIN_URL .'/assets/my-script.js');
     }
 }

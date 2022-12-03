@@ -13,7 +13,7 @@
 
 			<form method="post" action="options.php">
 				<?php 
-					settings_fields( 'my_plugin_settings' );
+					settings_fields( 'mp_options_group' );
 					do_settings_sections( 'my_plugin' );
 					submit_button();
 				?>
@@ -30,3 +30,4 @@
 		</div>
 	</div>
 </div>
+
