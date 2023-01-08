@@ -1,4 +1,5 @@
-# My Plugin
+# My Plugin. Following a course by Alesandro Castallani
+
 * Modular Administration Area
 * CPT Manager
 * Custom Taxonomy Manager
